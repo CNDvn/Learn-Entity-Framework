@@ -14,3 +14,6 @@ E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\C
 E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.csproj.GenerateResource.cache
 E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.Migrations.AddCategoriesTable.resources
 E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.Migrations.AddCategoryCulumnToCouressTable.resources
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.Migrations.AddDatePublishedColumnToCoursesTable.resources
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.Migrations.RenameTitleToNameInCoursesTable.resources
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.Migrations.DeleteDatePublishedColumnFromCoursesTable.resources
