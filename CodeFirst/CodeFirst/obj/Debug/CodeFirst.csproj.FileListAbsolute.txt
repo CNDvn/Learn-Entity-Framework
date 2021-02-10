@@ -1,0 +1,14 @@
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirst\bin\Debug\CodeFirst.pdb
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirst\bin\Debug\EntityFramework.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirst\bin\Debug\EntityFramework.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.InitialModel.resources
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.cache

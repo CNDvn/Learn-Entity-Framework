@@ -1,0 +1,16 @@
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirstExistingDatabase\bin\Debug\CodeFirstExistingDatabase.exe.config
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirstExistingDatabase\bin\Debug\CodeFirstExistingDatabase.exe
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirstExistingDatabase\bin\Debug\CodeFirstExistingDatabase.pdb
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirstExistingDatabase\bin\Debug\EntityFramework.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirstExistingDatabase\bin\Debug\EntityFramework.SqlServer.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirstExistingDatabase\bin\Debug\EntityFramework.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirstExistingDatabase\bin\Debug\EntityFramework.SqlServer.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.csprojAssemblyReference.cache
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.csproj.CoreCompileInputs.cache
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.csproj.CopyComplete
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.exe
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.pdb
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.Migrations.InitalModel.resources
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.csproj.GenerateResource.cache
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.Migrations.AddCategoriesTable.resources
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\CodeFirst\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.Migrations.AddCategoryCulumnToCouressTable.resources

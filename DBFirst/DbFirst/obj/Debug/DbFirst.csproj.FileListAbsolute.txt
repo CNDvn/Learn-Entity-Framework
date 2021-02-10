@@ -1,0 +1,12 @@
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\DBFirst\DbFirst\bin\Debug\DbFirst.exe.config
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\DBFirst\DbFirst\bin\Debug\DbFirst.exe
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\DBFirst\DbFirst\bin\Debug\DbFirst.pdb
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\DBFirst\DbFirst\bin\Debug\EntityFramework.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\DBFirst\DbFirst\bin\Debug\EntityFramework.SqlServer.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\DBFirst\DbFirst\bin\Debug\EntityFramework.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\DBFirst\DbFirst\bin\Debug\EntityFramework.SqlServer.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\DBFirst\DbFirst\obj\Debug\DbFirst.csprojAssemblyReference.cache
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\DBFirst\DbFirst\obj\Debug\DbFirst.csproj.CoreCompileInputs.cache
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\DBFirst\DbFirst\obj\Debug\DbFirst.csproj.CopyComplete
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\DBFirst\DbFirst\obj\Debug\DbFirst.exe
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\DBFirst\DbFirst\obj\Debug\DbFirst.pdb
