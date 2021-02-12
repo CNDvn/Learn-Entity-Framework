@@ -1,0 +1,14 @@
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\FluentAPI\FluentAPI\bin\Debug\FluentAPI.exe.config
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\FluentAPI\FluentAPI\bin\Debug\FluentAPI.exe
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\FluentAPI\FluentAPI\bin\Debug\FluentAPI.pdb
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\FluentAPI\FluentAPI\bin\Debug\EntityFramework.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\FluentAPI\FluentAPI\bin\Debug\EntityFramework.SqlServer.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\FluentAPI\FluentAPI\bin\Debug\EntityFramework.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\FluentAPI\FluentAPI\bin\Debug\EntityFramework.SqlServer.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csprojAssemblyReference.cache
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.CoreCompileInputs.cache
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.CopyComplete
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\FluentAPI\FluentAPI\obj\Debug\FluentAPI.exe
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\FluentAPI\FluentAPI\obj\Debug\FluentAPI.pdb
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\FluentAPI\FluentAPI\obj\Debug\FluentAPI.Migrations.InitialModel.resources
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.GenerateResource.cache
