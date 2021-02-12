@@ -1,0 +1,15 @@
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\DataAnnotations\DataAnnotations\bin\Debug\DataAnnotations.exe.config
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\DataAnnotations\DataAnnotations\bin\Debug\DataAnnotations.exe
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\DataAnnotations\DataAnnotations\bin\Debug\DataAnnotations.pdb
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\DataAnnotations\DataAnnotations\bin\Debug\EntityFramework.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\DataAnnotations\DataAnnotations\bin\Debug\EntityFramework.SqlServer.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\DataAnnotations\DataAnnotations\bin\Debug\EntityFramework.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\DataAnnotations\DataAnnotations\bin\Debug\EntityFramework.SqlServer.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.csprojAssemblyReference.cache
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.csproj.CoreCompileInputs.cache
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.csproj.CopyComplete
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.exe
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.pdb
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.Migrations.InitialModel.resources
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.csproj.GenerateResource.cache
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.Migrations.AddAnnotationToCoursesTable.resources
