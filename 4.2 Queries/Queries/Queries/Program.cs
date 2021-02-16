@@ -7,7 +7,17 @@ namespace Queries
     {
         static void Main(string[] args)
         {
-            LinqSyntax();
+            //LinqSyntax();
+        }
+        static void LinqExtensionMethod()
+        {
+            var context = new PlutoContext();
+
+            //Partitioning
+            var courses = context.Courses.Skip(10).Take(10);
+            //Element Operators
+            context.Courses.OrderBy(c => c.Level).FirstOrDefault();
+            //Luoi qua khong viet nua
         }
         static void LinqSyntax() 
         {
