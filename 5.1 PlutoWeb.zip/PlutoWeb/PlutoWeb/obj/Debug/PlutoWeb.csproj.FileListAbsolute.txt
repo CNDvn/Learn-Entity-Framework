@@ -1,0 +1,140 @@
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\PlutoWeb.dll.config
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\PlutoWeb.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\PlutoWeb.pdb
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Antlr3.Runtime.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\EntityFramework.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\EntityFramework.SqlServer.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Security.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Newtonsoft.Json.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Owin.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\System.Web.Helpers.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\System.Web.Mvc.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\System.Web.Optimization.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\System.Web.Razor.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\System.Web.WebPages.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\System.Web.WebPages.Razor.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\WebGrease.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\System.Web.Helpers.xml
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\System.Web.Mvc.xml
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\System.Web.Optimization.xml
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\System.Web.Razor.xml
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\System.Web.WebPages.xml
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\System.Web.WebPages.Razor.xml
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Antlr3.Runtime.pdb
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Newtonsoft.Json.xml
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\EntityFramework.xml
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\EntityFramework.SqlServer.xml
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.xml
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Security.xml
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\obj\Debug\PlutoWeb.csprojResolveAssemblyReference.cache
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\obj\Debug\PlutoWeb.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\obj\Debug\PlutoWeb.pdb
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\obj\Debug\PlutoWeb.Migrations.InitialModel.resources
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\obj\Debug\PlutoWeb.csproj.GenerateResource.Cache
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\StructureMap.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\StructureMap.Net4.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\StructureMap.Web.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\WebActivatorEx.dll
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\StructureMap.pdb
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\StructureMap.xml
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\StructureMap.Net4.pdb
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\StructureMap.Web.pdb
+C:\Projects\EntityFramework\PlutoWeb\PlutoWeb\bin\StructureMap.Web.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\PlutoWeb.dll.config
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\PlutoWeb.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\PlutoWeb.pdb
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Antlr3.Runtime.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\EntityFramework.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\EntityFramework.SqlServer.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Security.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Security.Google.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Microsoft.Practices.ServiceLocation.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Newtonsoft.Json.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Owin.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\StructureMap.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\StructureMap.Net4.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\StructureMap.Web.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\System.Web.Helpers.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\System.Web.Mvc.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\System.Web.Optimization.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\System.Web.Razor.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\System.Web.WebPages.Deployment.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\System.Web.WebPages.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\System.Web.WebPages.Razor.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\WebActivatorEx.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\WebGrease.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Microsoft.Practices.ServiceLocation.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\StructureMap.pdb
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\StructureMap.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\StructureMap.Net4.pdb
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\StructureMap.Web.pdb
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\StructureMap.Web.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\System.Web.Helpers.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\System.Web.Mvc.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\System.Web.Optimization.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\System.Web.Razor.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\System.Web.WebPages.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\System.Web.WebPages.Deployment.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\System.Web.WebPages.Razor.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Antlr3.Runtime.pdb
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Newtonsoft.Json.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\EntityFramework.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\EntityFramework.SqlServer.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Security.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Security.Google.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\obj\Debug\PlutoWeb.csprojAssemblyReference.cache
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\obj\Debug\PlutoWeb.Migrations.InitialModel.resources
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\obj\Debug\PlutoWeb.csproj.GenerateResource.cache
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\obj\Debug\PlutoWeb.csproj.CoreCompileInputs.cache
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\obj\Debug\PlutoWeb.csproj.CopyComplete
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\obj\Debug\PlutoWeb.dll
+E:\Course\practice\Udemy - Entity Framework in Depth The Complete Guide 2018-8\5.1 PlutoWeb.zip\PlutoWeb\PlutoWeb\obj\Debug\PlutoWeb.pdb
