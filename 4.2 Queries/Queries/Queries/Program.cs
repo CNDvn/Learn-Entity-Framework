@@ -1,4 +1,4 @@
-﻿
+﻿using System.Data.Entity;
 using System.Linq;
 
 namespace Queries
@@ -8,6 +8,9 @@ namespace Queries
         static void Main(string[] args)
         {
             //LinqSyntax();
+            var contex = new PlutoContext();
+            var list = contex.Courses.Include(c => c.Author).ToList();
+
         }
         static void LinqExtensionMethod()
         {
